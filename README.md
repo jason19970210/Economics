@@ -3,6 +3,7 @@
 ## Class Information
 - 授課老師：文羽苹
     - Mail：ypwen@mail.cgu.edu.tw
+    - FB：econ1@hotmail.com.tw
     - Ext.：5665
 - 助教：朱薏安
     - Mail：anay110443@gmail.com
