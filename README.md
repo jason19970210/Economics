@@ -7,6 +7,7 @@
     - Ext.：5665
 - 助教：朱薏安
     - Mail：anay110443@gmail.com
+    - Office Time：Tue. / Wed. 17：00 以後 @ 數位健康實驗室
 
 ## 課堂考試&期中期末考資訊
 - 出席 (10%)
