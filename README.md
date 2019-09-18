@@ -37,3 +37,6 @@
 #### 2 Big Economics Questions (summarize the scope)
 - How to do `choicies` end up determining **what**, **how**, and **for whom** goods and services get produced ? (私利)
 - When to do `choicies` made in the pursuit of **self-interest** also promote the **social interest** ? (公利)
+
+#### 流程圖
+![經濟流程圖](http://farm4.static.flickr.com/3487/3898417149_2f8e9223ea_o.jpg)
